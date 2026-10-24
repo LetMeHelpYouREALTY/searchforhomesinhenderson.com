@@ -588,7 +588,7 @@ export default function GreenValleyPage() {
               </Link>
             </div>
             <p className="text-sm mt-6 opacity-90">
-              Licensed Henderson realtors • 15+ years Green Valley experience •
+              Licensed Henderson realtors • In real estate since 1983 •
               Local residents
             </p>
           </div>

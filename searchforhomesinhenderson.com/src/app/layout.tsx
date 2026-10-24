@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     template: '%s | Henderson Homes - Dr. Jan Duffy REALTOR',
   },
   description:
-    "Find your dream home in Henderson, Nevada with Dr. Jan Duffy, Henderson's #1 REALTOR. Expert HOA navigation, school district strategy, golf communities & corporate relocation. Call (702) 500-1064.",
+    "Find your dream home in Henderson, Nevada with Dr. Jan Duffy, Top 1% Las Vegas REALTOR®. Expert HOA navigation, school district strategy, golf communities & corporate relocation. Call (702) 500-1064.",
   keywords: [
     'Henderson homes',
     'Nevada real estate',
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     url: 'https://searchforhomesinhenderson.com',
     title: 'Henderson Homes - Premier Real Estate with Dr. Jan Duffy REALTOR',
     description:
-      "Find your dream home in Henderson, Nevada with Henderson's #1 REALTOR. Expert HOA navigation, school districts & golf communities.",
+      "Find your dream home in Henderson, Nevada with Top 1% Las Vegas REALTOR®. Expert HOA navigation, school districts & golf communities.",
     siteName: 'Henderson Homes - Dr. Jan Duffy',
     images: [
       {
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Henderson Homes - Premier Real Estate with Dr. Jan Duffy',
     description:
-      "Find your dream home in Henderson, Nevada with Henderson's #1 REALTOR",
+      "Find your dream home in Henderson, Nevada with Top 1% Las Vegas REALTOR®",
     images: [
       'https://searchforhomesinhenderson.com/dr-jan-duffy-henderson-realtor.jpg',
     ],
@@ -87,7 +87,7 @@ export const metadata: Metadata = {
     'DC.creator': 'Dr. Jan Duffy',
     'DC.subject': 'Henderson Real Estate, Nevada Homes, Dr. Jan Duffy REALTOR',
     'DC.description':
-      "Find your dream home in Henderson, Nevada with Dr. Jan Duffy, Henderson's #1 REALTOR",
+      "Find your dream home in Henderson, Nevada with Dr. Jan Duffy, Top 1% Las Vegas REALTOR®",
     'DC.publisher': 'Dr. Jan Duffy Real Estate',
     'DC.contributor': 'Dr. Jan Duffy',
     'DC.date': '2024',
@@ -647,7 +647,7 @@ export default function RootLayout({
                   info@searchforhomesinhenderson.com
                 </p>
                 <p className="text-gray-300 text-sm">
-                  Nevada License #S.0197614
+                  Berkshire Hathaway HomeServices Nevada Properties since September 2008 · License S.0197614.LLC
                 </p>
               </div>
             </div>

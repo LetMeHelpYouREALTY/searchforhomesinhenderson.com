@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title:
     'Contact Henderson Homes - Real Estate Experts in Nevada | Dr. Jan Duffy REALTOR',
   description:
-    "Contact Dr. Jan Duffy, Henderson's #1 REALTOR for buying, selling, or property valuation services. Local expert helping you navigate the Nevada housing market. Call (702) 500-1064.",
+    "Contact Dr. Jan Duffy, Top 1% Las Vegas REALTOR® for buying, selling, or property valuation services. Local expert helping you navigate the Nevada housing market. Call (702) 500-1064.",
   keywords: [
     'contact Henderson realtor',
     'Nevada real estate agent',
