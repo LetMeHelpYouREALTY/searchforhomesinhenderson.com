@@ -275,7 +275,7 @@ export default function FeaturedAgentsPage() {
                   <li>• Seven Hills community amenity comparisons</li>
                   <li>• MacDonald Highlands luxury HOA services evaluation</li>
                   <li>• Lake Las Vegas resort community guidelines</li>
-                  <li>• Whitney Ranch family-friendly HOA benefits</li>
+                  <li>• Whitney Ranch HOA benefits</li>
                 </ul>
                 <p className="mt-3 text-blue-600 font-semibold text-sm">
                   "I maintain current HOA documents for all 50+ Henderson
@@ -459,7 +459,7 @@ export default function FeaturedAgentsPage() {
                   Stephanie Ranch
                 </h3>
                 <p className="text-gray-600 mb-4">
-                  Family-oriented community with excellent schools, abundant
+                  Community with nearby schools, abundant
                   recreational facilities, and affordable luxury living.
                 </p>
                 <div className="space-y-2 text-sm">
@@ -479,7 +479,7 @@ export default function FeaturedAgentsPage() {
                   </div>
                 </div>
                 <p className="mt-4 text-purple-600 font-semibold text-sm">
-                  "Stephanie Ranch expert - I know every family-friendly
+                  "Stephanie Ranch expert - I know every
                   amenity"
                 </p>
               </div>
@@ -489,7 +489,7 @@ export default function FeaturedAgentsPage() {
                   Whitney Ranch
                 </h3>
                 <p className="text-gray-600 mb-4">
-                  Established community with mature landscaping, well-maintained
+                  Mature landscaping, well-maintained
                   amenities, and strong neighborhood pride and affordability.
                 </p>
                 <div className="space-y-2 text-sm">
@@ -694,7 +694,7 @@ export default function FeaturedAgentsPage() {
                   "Relocating from Chicago to work at Switch data center, Dr.
                   Duffy made Henderson house hunting seamless. She arranged
                   virtual tours, handled inspections remotely, and found us a
-                  home near excellent schools."
+                  home near nearby public schools."
                 </blockquote>
                 <cite className="text-sm">
                   <strong>- Roberto & Maria Gonzalez</strong>
@@ -778,7 +778,7 @@ export default function FeaturedAgentsPage() {
                 <p className="text-gray-700 mb-4">
                   "As parents moving to Henderson, Jan's school district
                   expertise was invaluable. She knew exactly which neighborhoods
-                  had space in the best schools."
+                  had space in the nearby public schools."
                 </p>
                 <div className="text-sm">
                   <div className="font-semibold text-gray-900">

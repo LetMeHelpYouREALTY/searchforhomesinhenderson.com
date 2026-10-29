@@ -547,7 +547,7 @@ export default function GreenValleyPage() {
                     Whitney Ranch Henderson
                   </h3>
                   <p className="text-gray-600 mb-4">
-                    Family-friendly community with excellent value and mature
+                    Community with excellent value and mature
                     landscaping. More affordable alternative to Green Valley.
                   </p>
                   <div className="text-sm text-gray-500 mb-3">
