@@ -588,7 +588,7 @@ export default function GreenValleyPage() {
               </Link>
             </div>
             <p className="text-sm mt-6 opacity-90">
-              Licensed Henderson realtors • In real estate since 1983 •
+              Licensed Henderson realtors • Licensed since 2008 · 35 years in Las Vegas •
               Local residents
             </p>
           </div>
