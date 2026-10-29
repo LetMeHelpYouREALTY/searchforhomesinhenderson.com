@@ -48,7 +48,7 @@ export default function FeaturedAgentsPage() {
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Top 1% Las Vegas REALTOR®
+            Las Vegas REALTOR®
           </h1>
           <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-blue-100">
             Dr. Jan Duffy - Your Henderson Real Estate Expert
@@ -106,7 +106,7 @@ export default function FeaturedAgentsPage() {
                 </h3>
                 <div className="space-y-4 text-gray-700">
                   <p>
-                    In real estate since 1983, I've helped hundreds of families find their perfect home in
+                    Licensed since 2008 · 35 years in Las Vegas, I've helped hundreds of families find their perfect home in
                     Henderson's most desirable communities.
                   </p>
                   <p>
@@ -974,7 +974,7 @@ export default function FeaturedAgentsPage() {
                 Saturday by appointment
               </p>
               <p className="text-sm mt-2 opacity-90">
-                In real estate since 1983 • Licensed Nevada REALTOR •
+                Licensed since 2008 · 35 years in Las Vegas • Licensed Nevada REALTOR •
                 Henderson resident
               </p>
             </div>

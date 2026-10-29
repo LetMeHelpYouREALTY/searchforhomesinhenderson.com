@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title:
     'Top Henderson REALTOR | Dr. Jan Duffy - Henderson Real Estate Expert | Henderson Homes',
   description:
-    "Dr. Jan Duffy is Top 1% Las Vegas REALTOR® specializing in Green Valley, Anthem, Stephanie Ranch & Whitney Ranch. Expert HOA navigation, school district strategy, golf communities & corporate relocation. Call (702) 500-1064 for Henderson real estate expertise.",
+    "Dr. Jan Duffy is a Las Vegas REALTOR® specializing in Green Valley, Anthem, Stephanie Ranch & Whitney Ranch. Expert HOA navigation, school district strategy, golf communities & corporate relocation. Call (702) 500-1064 for Henderson real estate expertise.",
   keywords:
     'Henderson REALTOR, top Henderson realtor, Dr. Jan Duffy, Henderson real estate expert, Green Valley realtor, Anthem realtor, Stephanie Ranch realtor, Whitney Ranch realtor, Henderson HOA expert, Henderson school district, golf course communities Henderson',
   openGraph: {
