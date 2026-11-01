@@ -5,6 +5,8 @@ import Script from 'next/script'
 import Header from '@/components/Header'
 import PerformanceMonitor from '@/components/PerformanceMonitor'
 import './globals.css'
+import { Analytics as VercelAnalytics } from "@vercel/analytics/next";
+import { SpeedInsights as VercelSpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -641,6 +643,8 @@ export default function RootLayout({
             </div>
           </div>
         </footer>
+        <VercelAnalytics />
+        <VercelSpeedInsights />
       </body>
     </html>
   )
